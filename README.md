@@ -51,6 +51,8 @@ Outros parâmetros dos serviços de Geocodificação e de Rotas, os quais não f
 
 O compartilhamento do resultado produzido deve ser feito diretamente pelo GitHub. Para isso, faça um <a href="https://help.github.com/articles/fork-a-repo" target="_blank">fork</a> e nos envie sua versão com a devida implementação.
 
+Apesar do nome "desafio", o objetivo deste teste é avaliar como você desenvolvedor irá considerar questões como arquitetura e design de software, modelagem e aplicação de técnicas e conceitos de programação, e não simplesmente resolver o problema proposto, visto que o mesmo não oferece dificuldades para implementação.
+
 Qualquer dúvida, você pode enviar um e-mail para webservices@maplink.com.br.
 
 Lhe desejamos um ótimo desafio!
